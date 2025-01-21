@@ -1,0 +1,28 @@
+PROPERTY TRANSFER AGREEMENT
+This Property Transfer Agreement (the "Agreement") is entered into as of January 20, 2025, by and between:
+Alice, residing at 123 Maple Street, Springfield, hereinafter referred to as the "Transferor,"
+and
+Bob, residing at 456 Oak Avenue, Springfield, hereinafter referred to as the "Transferee."
+RECITALS
+WHEREAS, the Transferor is the sole owner of the property located at 789 Pine Road, Springfield (the "Property"), and
+WHEREAS, the Transferor agrees to transfer ownership of the Property to the Transferee under the terms and conditions set forth herein.
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties agree as follows:
+1. Transfer of Property
+The Transferor agrees to transfer all rights, title, and interest in and to the Property to the Transferee as of the date of this Agreement.
+2. Purchase Price
+The total purchase price for the Property is $250,000 (Two Hundred Fifty Thousand Dollars), to be paid by the Transferee to the Transferor by wire transfer upon the execution of this Agreement.
+3. Representations and Warranties
+The Transferor represents that they hold clear and marketable title to the Property, free from all encumbrances.
+The Transferee acknowledges that they have inspected the Property and accept it "as is."
+4. Closing
+The closing of the transaction shall take place on February 1, 2025, at the offices of Springfield Legal Services or another location agreed upon by the parties.
+5. Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all prior understandings, whether written or oral.
+6. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of Illinois.
+SIGNATURES
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+Transferor (Alice):
+Alice
+Transferee (Bob):
+Bob
